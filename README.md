@@ -19,12 +19,18 @@ Here are some ideas to get you started:
 <h3 align="center"> ✨Tech Stack✨ </h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=FFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=FFF"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=FFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=FFF"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFF"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFF"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFF"/> 
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=FFF"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=Angular&logoColor=FFF"/> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFF"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=FFF"/> 
 </div>
+
+<h3 align="center">🧸Contacts🧸</h3>
+<p align="center">
+ <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kun5o0/"/></a>
+  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kundoo0412@gmail.com"/></a>
+</p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
