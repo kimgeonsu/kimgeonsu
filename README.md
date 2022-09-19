@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">🧸Contacts🧸</h3>
 <p align="center">
- <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kun5o0/"/></a>
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kundoo0412@gmail.com"/></a>
+ <a href="https://www.instagram.com/kun5o0/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kun5o0/"/></a>
+  <a href="mailto:kundoo0412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kundoo0412@gmail.com"/></a>
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
