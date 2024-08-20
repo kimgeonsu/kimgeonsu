@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=00aaff&height=200&section=header&text=Hi🤗%20I'm%20Geonsu!&fontSize=60&fontColor=fff)
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{kimgeonsu}?pet-id=1" width="1000" height="120"/>
+</a>
 <h3 align="center"> ✨Tech Stack✨ </h3>
 
 <div align="center">
