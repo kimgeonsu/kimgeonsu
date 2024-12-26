@@ -1,7 +1,11 @@
 ### Hi there! 👋 I'm Geonsu!
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{kimgeonsu}?pet-id=1" contribution-view=false width="1000" height="120"/>
+<img
+  src="https://render.gitanimals.org/farms/kimgeonsu"
+  width="600"
+  height="300"
+/>
 </a>
 
 ---
