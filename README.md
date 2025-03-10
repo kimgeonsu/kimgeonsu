@@ -36,11 +36,3 @@ I am confident in my ability to combine diverse experiences across various field
 <a href="mailto:kundoo0412@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EA%B1%B4%EC%88%98-%EA%B9%80-373978288/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </p>
-
----
-
-<h2 align="center">🚀 My GitHub Stats 🚀</h2>
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgeonsu&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
-</div>
